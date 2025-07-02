@@ -1,4 +1,4 @@
 pandas
 treamlit
-plotly
+plotly.express
 datetime
